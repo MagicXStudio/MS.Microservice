@@ -1,4 +1,4 @@
-# MS.Microservice
+# Microservice
 微服务架构设计
 
 Martin Fowler 对微服务特征的概括：[微服务](https://martinfowler.com/articles/microservices.html#SmartEndpointsAndDumbPipes)
